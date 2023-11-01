@@ -1,2 +1,2 @@
 # Boundaries
- LHS boundaroes
+ LHS boundaries
